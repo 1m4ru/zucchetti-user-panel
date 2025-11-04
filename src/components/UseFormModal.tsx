@@ -30,7 +30,7 @@ export default function UserFormModal({ open, onClose, editingUser }: UserFormMo
         } else {
             reset({ name: "", email: "", status: "ativo" })
         }
-    }, [editingUser, register, open]);
+    }, [editingUser, register, open, reset]);
 
 
     const onSubmit = (data: UserFormSchema) => {

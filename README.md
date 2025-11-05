@@ -10,6 +10,13 @@
 
 ---
 
+## 🚀 Demo Online
+
+O projeto está disponível em produção neste link:  
+👉 [Zucchetti User Panel - Deploy na Vercel](https://zucchetti-user-panel.vercel.app)
+
+---
+
 ## Sobre o Projeto
 
 O **Zucchetti User Panel** é um painel web moderno e responsivo para **gestão de usuários**, desenvolvido como parte de um **desafio técnico Zucchetti**.
@@ -109,3 +116,9 @@ Código livre para análise, estudo e revisão técnica.
 ---
 
 **Desenvolvido por Maruan Moussa**
+---
+
+**Desenvolvido por [Maruan Moussa](https://github.com/MaruanMoussa)**  
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1m4ru)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maruan-moussa/)

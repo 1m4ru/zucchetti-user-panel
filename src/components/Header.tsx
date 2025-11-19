@@ -60,7 +60,7 @@ export default function Header() {
               WebkitTextFillColor: "transparent",
             }}
           >
-            Zucchetti
+           uZer Admin Panel
           </Typography>
         </Box>
 
